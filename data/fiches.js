@@ -67,7 +67,15 @@ const FICHES = [
 
   // ===== AJOUTEZ VOS FICHES CI-DESSOUS =====
 
+  {
+    titre : "Prendre de l'avance sur son stress",
+    categorie : "Études",
+    texte : "Un devoir préparé dix jours à l'avance prend deux fois moins de temps qu'un devoir bâclé la veille à minuit. Épargnez votre sommeil.",
+    auteur : "L'équipe pédagogique"
+  },
+
 
   // ===== FIN DE VOS FICHES =====
 
 ];
+
